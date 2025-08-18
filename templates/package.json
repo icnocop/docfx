@@ -53,6 +53,6 @@
     "stylelint-config-standard-scss": "^11.1.0",
     "ts-jest": "^29.4.1",
     "typescript": "^5.5.4",
-    "yargs": "^17.7.2"
+    "yargs": "^18.0.0"
   }
 }
